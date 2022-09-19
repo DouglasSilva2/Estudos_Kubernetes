@@ -1,2 +1,5 @@
-# Estudos_Kubernetes
-Kubernetes
+<h1> Projetos em Kubernetes</h1>
+
+````
+KUBERNETES PROJETOS COM CLUSTER UTILIZANDO SVC PARA COMUNICAÇÃO ENTRE POD NO KUBERNETES
+````
